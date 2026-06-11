@@ -1,0 +1,9 @@
+*.html
+*.htm
+*.log
+*.txt
+!output/*.html
+final_packet/
+final_packet_babahan_20240941.zip
+__pycache__/
+*.pyc
